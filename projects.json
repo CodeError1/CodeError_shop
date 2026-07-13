@@ -14,5 +14,13 @@
     "icon": "projects/Fighter/icon.png",
     "apk": "projects/Fighter/app-release.apk",
     "version": "1.0.2"
+  },
+  {
+    "id": "aqari",
+    "name": "aqari",
+    "tagline": "حساب مصاريف العقارات والتشطيب",
+    "version": "1.0.1",
+    "icon": "projects/aqari/icon.png",
+    "apk": "projects/aqari/app-release.apk"
   }
 ]
