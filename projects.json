@@ -10,10 +10,10 @@
   {
     "id": "Fighter",
     "name": "Fighter",
-    "tagline": "Kickboxing with Captain Islam El-Gheity",
+    "tagline": "",
+    "version": "1.0.3",
     "icon": "projects/Fighter/icon.png",
-    "apk": "projects/Fighter/app-release.apk",
-    "version": "1.0.2"
+    "apk": "projects/Fighter/app-release.apk"
   },
   {
     "id": "aqari",
